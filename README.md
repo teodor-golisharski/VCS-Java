@@ -1,2 +1,2 @@
 # VCS-Java
-This private repository is a sandbox for experimenting with the version control system through IntelliJ 
+A sandbox repository for learning Java and experimenting with version control through IntelliJ. Focused on building familiarity with Git workflows and Java basics.
