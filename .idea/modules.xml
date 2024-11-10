@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lab-First-Steps-In-Coding/ConsoleAppHelloSoftUni/ConsoleAppHelloSoftUni.iml" filepath="$PROJECT_DIR$/Lab-First-Steps-In-Coding/ConsoleAppHelloSoftUni/ConsoleAppHelloSoftUni.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise-First-Steps-In-Coding/Exercise-First-Steps-In-Coding.iml" filepath="$PROJECT_DIR$/Exercise-First-Steps-In-Coding/Exercise-First-Steps-In-Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab-Conditional-Statements/Lab-Conditional-Statements.iml" filepath="$PROJECT_DIR$/Lab-Conditional-Statements/Lab-Conditional-Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab-First-Steps-In-Coding/Lab-First-Steps-In-Coding.iml" filepath="$PROJECT_DIR$/Lab-First-Steps-In-Coding/Lab-First-Steps-In-Coding.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/VCS-Java.iml" filepath="$PROJECT_DIR$/.idea/VCS-Java.iml" />
     </modules>
