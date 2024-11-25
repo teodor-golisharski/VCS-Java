@@ -28,5 +28,6 @@ public class HotelRoom {
 
         System.out.printf("Apartment: %.2f lv.%n", apartment);
         System.out.printf("Studio: %.2f lv.", studio);
+
     }
 }
