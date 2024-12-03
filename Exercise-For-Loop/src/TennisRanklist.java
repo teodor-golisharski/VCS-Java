@@ -18,15 +18,11 @@ public class TennisRanklist {
                     pointsAcquired += 2000;
                     count++;
                 }
-                case "F" -> {
-                    pointsAcquired += 1200;
-                }
-                case "SF" -> {
-                    pointsAcquired += 720;
-                }
+                case "F" -> pointsAcquired += 1200;
+                case "SF" -> pointsAcquired += 720;
             }
         }
-        int temp = (int)Math.floor((double)((pointsAcquired - startingPoints) / n));
+        int temp = (int) Math.floor((double) ((pointsAcquired - startingPoints) / n));
         System.out.printf("Final points: %d%n", pointsAcquired);
         System.out.printf("Average points: %d%n", temp);
         System.out.printf("%.2f%%%n", count / n * 100);
